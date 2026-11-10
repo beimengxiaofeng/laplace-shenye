@@ -1,0 +1,10 @@
+/*
+  @title        链路测试
+  @description  只验证远程模版能不能加载
+  @author       鲸鲸
+  @version      0.0.1
+*/
+@layer template {
+  body { background-color: rgba(0,0,0,0); }
+  .event .username { color: #ff3c28 !important; }
+}

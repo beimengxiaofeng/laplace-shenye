@@ -1,0 +1,17 @@
+/*
+  @title        链路测试 2
+  @description  带完整元数据的探针，用来验证 @thumbnail 缺失是不是解析失败的原因
+  @author       鲸鲸
+  @updated      November 11, 2026
+  @version      0.0.2
+  @thumbnail    https://laplace-css.daifish.top/public/sample.png
+*/
+
+@layer template {
+  body { background-color: rgba(0, 0, 0, 0); }
+
+  .event .username {
+    color: #ff3c28 !important;
+    font-weight: 900 !important;
+  }
+}
